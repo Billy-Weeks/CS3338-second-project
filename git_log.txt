@@ -1,0 +1,45 @@
+commit 20eff0e0e9e94b7983321ad7970224f08ada11e3
+Merge: 23dfdab c179d37
+Author: Billy Weeks <meznull43628@gmail.com>
+Date:   Sat Jan 31 19:32:41 2026 -0800
+
+    Merge branch 'index-fix
+
+commit c179d370918da03792261a11c14dcdf3ef7c177b
+Author: Billy Weeks <meznull43628@gmail.com>
+Date:   Sat Jan 31 19:22:59 2026 -0800
+
+    Added line stating favorite movie
+
+commit 23dfdab266a30ad5d5daf1c6ede04e9641abff33
+Author: Billy Weeks <meznull43628@gmail.com>
+Date:   Sat Jan 31 19:21:19 2026 -0800
+
+    Adding line stating favorite food
+
+commit 81583250fe0d6c0f28bae46badfb1bc84969ed4f
+Author: Billy Weeks <meznull43628@gmail.com>
+Date:   Sat Jan 31 19:13:26 2026 -0800
+
+    Created README.md file
+
+commit 6749acecb2b4186e7d28297819c6326ffb775762
+Merge: 1d2bfc0 2d0ebf7
+Author: Billy Weeks <162677087+Billy-Weeks@users.noreply.github.com>
+Date:   Sat Jan 31 19:04:53 2026 -0800
+
+    Merge pull request #1 from Billy-Weeks/info-fill
+    
+    Filled in blanks with name and hobby
+
+commit 2d0ebf7c8697d611f6fc2c63d13bde8f69340d8d
+Author: Billy Weeks <meznull43628@gmail.com>
+Date:   Sat Jan 31 18:55:57 2026 -0800
+
+    Filled in blanks with name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
